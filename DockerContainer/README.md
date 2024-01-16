@@ -1,3 +1,5 @@
+# Author: Arifa Khan
+
 # Deploying PyTorch Model to Production with FastAPI in CUDA-supported Docker
 
 A example FastAPI PyTorch Model deploy with nvidia/cuda base docker.
